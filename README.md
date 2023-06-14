@@ -123,4 +123,6 @@ Randomly it will keep on changing, the number of times your run the code.
 This is for the emojies to run in JavaScript. 
 3. See that the node is Setup locally [Click here]https://www.codecademy.com/articles/setting-up-node-locally 
 4. Setup Git and Create a GitHub Account information how to [instructions]https://www.codecademy.com/articles/setting-up-node-locally
+or
+You can use Codecademy Workspace [link]https://www.codecademy.com/workspaces/new
 Thank you...
